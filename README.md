@@ -1,6 +1,6 @@
 # expense_tracker
 
-A new Flutter project.
+This an expense Tracker project I built using flutter. You will have to select the (+) button in the AppBar and start adding your own expenses. 
 
 ## Getting Started
 
